@@ -18,7 +18,7 @@ export default class About extends Component {
 						About Us
 					</h1>
 					<p className='about-paragraph'>
-					Despite the progression of research and advocacy for mental health conditions, it is still very evident that there is still an alarming lack of awareness in our societies. In particular, there aren’t any reputable online resources for advising those who suffer from mental issues as well as resources for advising people on how to interact with those who are suffering from mental health issues. We want to build an interactive, online resource that enables people, both those who suffer from mental health issues and those who do not, to navigate mental health issues in a way that is positive and informing.
+					The progression of mental health awareness has pushed the topic in a space of public interest. We now understand that everybody deals with mental issues time to time and that nobody is alone in this struggle. Despite the increase of advocacy for mental health conditions, we feel that there are still very limited resources available in our day-to-day lives. Employee benefits in the workforce often don’t cover mental health related issues, and school curriculums don’t prepare children personally navigating mental health crises.   We feel that helping younger audiences build their moral identity with mental health in mind can prepare children for later obstacles of adulthood. We want to build an interactive, online resource, aimed at younger children, that both educates children on mental health and encourages children to navigate mental health issues in a way that is positive and informing.
 					</p>
 				</div>
 				<div className='bio-section'>
