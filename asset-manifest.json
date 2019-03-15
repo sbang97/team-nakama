@@ -1,11 +1,19 @@
 {
-  "main.css": "static/css/main.efaebf50.css",
-  "main.css.map": "static/css/main.efaebf50.css.map",
-  "main.js": "static/js/main.6c1c1dd8.js",
-  "main.js.map": "static/js/main.6c1c1dd8.js.map",
-  "static\\media\\joe.jpg": "static/media/joe.0cc5d104.jpg",
-  "static\\media\\kevin.jpg": "static/media/kevin.de1135d2.jpg",
-  "static\\media\\logo.svg": "static/media/logo.ee7cd8ed.svg",
-  "static\\media\\simon.jpg": "static/media/simon.c2879ac2.jpg",
-  "static\\media\\sunny.jpg": "static/media/sunny.9dcfc6a4.jpg"
+  "main.css": "static/css/main.edd68025.css",
+  "main.css.map": "static/css/main.edd68025.css.map",
+  "main.js": "static/js/main.f80ced24.js",
+  "main.js.map": "static/js/main.f80ced24.js.map",
+  "static\\media\\background.jpg": "static/media/background.da465538.jpg",
+  "static\\media\\celeste.png": "static/media/celeste.6058c51a.png",
+  "static\\media\\characters1.png": "static/media/characters1.5b7da4e9.png",
+  "static\\media\\characters2.png": "static/media/characters2.bed51e17.png",
+  "static\\media\\earthbound_vc.0.jpg": "static/media/earthbound_vc.0.95931d09.jpg",
+  "static\\media\\edward.jpg": "static/media/edward.b07536b8.jpg",
+  "static\\media\\hyper light drifter.jpg": "static/media/hyper light drifter.29a41e22.jpg",
+  "static\\media\\joe.png": "static/media/joe.735dfcac.png",
+  "static\\media\\kevin.png": "static/media/kevin.d31379c9.png",
+  "static\\media\\limbo.jpg": "static/media/limbo.5e4521ff.jpg",
+  "static\\media\\room.jpg": "static/media/room.c4d066d8.jpg",
+  "static\\media\\simon.png": "static/media/simon.83ba3b46.png",
+  "static\\media\\sunny.png": "static/media/sunny.4f7aa92f.png"
 }
