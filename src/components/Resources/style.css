@@ -3,12 +3,12 @@
 }
 
 .header {
-  font-size: 90px;
+  font-size: 48px;
   text-align: center;
 }
 
 .subheader {
-  font-size: 60px;
+  font-size: 32px;
   text-align: center;
 }
 
@@ -26,7 +26,7 @@
 }
 
 .intro {
-  font-size: 44px;
+  font-size: 32px;
   text-align: center;
 }
 

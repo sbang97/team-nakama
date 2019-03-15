@@ -20,11 +20,12 @@
 
 .about-header, .bio-header {
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: 15px;
 }
 
 .bio-section {
     padding-top: 75px;
+    padding-bottom: 50px;
 }
 
 .about-paragraph {
@@ -36,4 +37,13 @@
     margin: auto;
     margin-top: 80px;
     font-size: 24px;
+}
+
+.rounded-circle {
+    height: 300px;
+    width: 300px;
+}
+
+.bio-description {
+    font-size: 18px;
 }

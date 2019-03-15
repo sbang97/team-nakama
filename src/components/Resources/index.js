@@ -9,7 +9,7 @@ export default class Resources extends Component {
 		return (
 			<div className={classnames("Resources", this.props.className)}>
 				<h1 className="header">
-					About Nevermind
+					Learn More
 				</h1>
         <div className="intro">
           Everyone has mental health. But why don't we talk about it? <br/>
