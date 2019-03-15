@@ -9,14 +9,14 @@ import "./style.css";
 export default class Layout extends Component {
 	render() {
 		return(
-			<div>
+			<div className="body">
 				<Header/>
 				<main className={classnames("Main", this.props.className)}>
 					<div className="container">
 						{ this.props.children }
 					</div>
 				</main>
-				<Footer/>
+				{/* <Footer/> */}
 			</div>
 		);
 	}

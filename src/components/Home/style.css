@@ -11,7 +11,22 @@
   font-size: large;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.landing-title {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.carousel-inner {
+  max-height: 20% !important;
+  width: 80% !important;
+  margin: 0 auto;
+}
+.w-100 {
+  max-height: 500px !important;
+}
+.carousel-caption p {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 120px;
 }
