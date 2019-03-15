@@ -3,7 +3,10 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
-import kevin from '../About/img/kevin.jpg'
+import characters1 from '../Home/img/characters1.png';
+import characters2 from '../Home/img/characters2.png';
+import edward from '../Home/img/edward.jpg';
+import room from '../Home/img/room.jpg';
 import "./style.css";
 
 export default class Screenshots extends Component {
@@ -11,21 +14,21 @@ export default class Screenshots extends Component {
 		return (
 			<div className="screenshots-div">
                 <Container>
-                    <h1 className="screenshots-title">Screenshots</h1>
+                    <h1 className="screenshots-title">Initial Sketches</h1>
                     <Row>
                         <Col>
-                            <Image src={kevin} rounded/>
+                            <Image src={edward} rounded/>
                         </Col>
                         <Col>
-                            <Image src={kevin} rounded/> 
+                            <Image src={room} rounded className="characters"/> 
                         </Col>
                     </Row>
                     <Row>
                         <Col>
-                            <Image src={kevin} rounded/>
+                            <Image src={characters1} rounded/>
                         </Col>
                         <Col>
-                            <Image src={kevin} rounded/> 
+                            <Image src={characters2} rounded/> 
                         </Col>
                     </Row>
                 </Container>

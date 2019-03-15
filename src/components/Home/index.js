@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import Carousel from 'react-bootstrap/Carousel';
 import background from './img/background.jpg';
-import simon from '../About/img/simon.jpg';
-import joe from '../About/img/joe.jpg';
-import sunny from '../About/img/sunny.jpg';
+import celeste from '../Home/img/celeste.png';
+import earthbound from '../Home/img/earthbound_vc.0.jpg';
+import hyper from '../Home/img/hyper light drifter.jpg';
+import limbo from '../Home/img/limbo.jpg';
 import Contact from '../Contact';
 import Screenshots from '../Screenshots';
 import "./style.css";
@@ -17,7 +18,7 @@ export default class Home extends Component {
 					<Carousel.Item>
 						<img
 						className="d-block w-100"
-						src={simon}
+						src={earthbound}
 						alt="First slide"
 						/>
 						<Carousel.Caption>
@@ -27,7 +28,7 @@ export default class Home extends Component {
 						<Carousel.Item>
 							<img
 							className="d-block w-100"
-							src={joe}
+							src={limbo}
 							alt="Second slide"
 							/>
 
@@ -38,7 +39,7 @@ export default class Home extends Component {
 						<Carousel.Item>
 							<img
 							className="d-block w-100"
-							src={sunny}
+							src={hyper}
 							alt="Third slide"
 							/>
 
