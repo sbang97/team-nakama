@@ -4,13 +4,13 @@ import { Route, IndexRoute } from "react-router";
 import Layout from "./components/Layout";
 import Home from "./components/Home";
 import About from "./components/About";
-import NotFound from "./components/NotFound";
+import Resources from "./components/Resources";
 
 const Routes = (
   <Route path="/" component={Layout}>
     <IndexRoute component={Home} />
     <Route path="/about" component={About} />
-    <Route path="*" component={NotFound} />
+    <Route path="*" component={Resources} />
   </Route>
 );
 

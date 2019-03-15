@@ -13,7 +13,7 @@ export default class About extends Component {
 	render() {
 		return (
 			<div className={classnames("About", this.props.className)}>
-				<div className='about-section'>
+				<div className='about-section text-white'>
 					<h1 className='about-header'>
 						About Us
 					</h1>
