@@ -22,7 +22,6 @@ export default class Home extends Component {
 						alt="First slide"
 						/>
 						<Carousel.Caption>
-							<p>with a full week ahead of him. Edward is determined to do everything that he can to complete everything he needs to. As the week continues blah blah blah blah blah blah blajh blah blah blah blah</p>
 						</Carousel.Caption>
 						</Carousel.Item>
 						<Carousel.Item>
@@ -33,7 +32,6 @@ export default class Home extends Component {
 							/>
 
 							<Carousel.Caption>
-								<p>with a full week ahead of him. Edward is determined to do everything that he can to complete everything he needs to. As the week continues blah blah blah blah blah blah blajh blah blah blah blah</p>
 							</Carousel.Caption>
 						</Carousel.Item>
 						<Carousel.Item>
@@ -44,7 +42,6 @@ export default class Home extends Component {
 							/>
 
 							<Carousel.Caption>
-								<p>with a full week ahead of him. Edward is determined to do everything that he can to complete everything he needs to. As the week continues blah blah blah blah blah blah blajh blah blah blah blah</p>
 							</Carousel.Caption>
 						</Carousel.Item>
 				</Carousel>
