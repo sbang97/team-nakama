@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=VT323');
+.landing-title {
+    text-align: center;
+    font-size: 62px;
+}
+
+.body {
+    font-family: 'VT323';
+    font-size: 28px;
+    background-image: url("../Home/img/background.jpg");
+    padding-top: 50px;
+}
+

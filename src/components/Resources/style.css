@@ -1,0 +1,35 @@
+* {
+  color: white;
+}
+
+.header {
+  font-size: 90px;
+  text-align: center;
+}
+
+.subheader {
+  font-size: 60px;
+  text-align: center;
+}
+
+.box-art {
+  margin-top: 90px;
+}
+
+.description {
+  font-size: 20px;
+  text-align: left;
+}
+
+.frame {
+  white-space: nowrap;
+}
+
+.intro {
+  font-size: 44px;
+  text-align: center;
+}
+
+.opaque {
+  background-color:rgba(0, 0, 0, 0.5);
+}
