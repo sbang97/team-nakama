@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import "./style.css";
-
+import { IndexLink } from "react-router";
+import NavLink from "../NavLink";
 export default class Header extends Component {
 	render() {
 		return (
@@ -10,10 +11,10 @@ export default class Header extends Component {
 				<Navbar fixed="top">
 					<Nav className="justify-content-end" activeKey="/home">
 					<Nav.Item>
-					<Nav.Link href="/">Home</Nav.Link>
+					<IndexLink to="/">Home</IndexLink>
 					</Nav.Item>
 					<Nav.Item>
-					<Nav.Link href="/about">About</Nav.Link>
+					<NavLink to="/about">About</NavLink>
 					</Nav.Item>
 					<Nav.Item>
 					<Nav.Link href="/resources">Learn More</Nav.Link>
