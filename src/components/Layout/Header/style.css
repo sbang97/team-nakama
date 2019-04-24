@@ -18,3 +18,11 @@
 .site-title {
   text-align: center;
 }
+
+a {
+  color: white!important;
+}
+
+.nav {
+  margin-left: 20px;
+}

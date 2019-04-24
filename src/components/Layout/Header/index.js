@@ -11,13 +11,13 @@ export default class Header extends Component {
 				<Navbar fixed="top">
 					<Nav className="justify-content-end" activeKey="/home">
 					<Nav.Item>
-					<IndexLink to="/">Home</IndexLink>
+						<IndexLink className="nav" to="/">Home</IndexLink>
 					</Nav.Item>
 					<Nav.Item>
-					<NavLink to="/about">About</NavLink>
+						<NavLink className="nav" to="/about">About</NavLink>
 					</Nav.Item>
 					<Nav.Item>
-					<Nav.Link href="/resources">Learn More</Nav.Link>
+						<NavLink className="nav" to="/resources">Learn More</NavLink>
 					</Nav.Item>
 					</Nav>
 				</Navbar>
