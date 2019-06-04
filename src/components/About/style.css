@@ -1,5 +1,5 @@
 .about-section {
-    width: 60%;
+    width: 90%;
     margin: auto;
     margin-top: 30px;
     font-size: 24px;
@@ -18,18 +18,32 @@
     height: 400px;
 }
 
+.big-owl {
+  width: 100px;
+  height: 100px;
+}
+
 .about-header, .bio-header {
+  font-size: 100px;
     text-align: center;
     padding-bottom: 15px;
 }
 
 .bio-section {
     padding-top: 75px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 100%;
 }
 
 .about-paragraph {
-    width: 700px;
+  font-size: 30px;
+  text-align: center;
+  width: 1000px;
+}
+
+ul {
+  list-style-image: url('./img/owl.png');
 }
 
 .mission-section {
@@ -39,11 +53,19 @@
     font-size: 24px;
 }
 
+.name {
+  font-size: 35px;
+}
+
 .rounded-circle {
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
+}
+
+.about-page {
+  height: 1080px;
 }
 
 .bio-description {
-    font-size: 18px;
+    font-size: 24px;
 }

@@ -1,0 +1,71 @@
+#barr-jeffrey {
+  font-size: 50px;
+  line-height: 1cm;
+  text-align: center;
+}
+
+.blue {
+  color: #00BFFF;
+}
+
+.header {
+  font-size: 50px;
+  margin: 20px;
+}
+
+.huge {
+  font-size: 90px;
+  text-align: center;
+}
+
+.emphasis {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.magenta {
+  color: #EE82EE;
+}
+
+.feedback-page {
+  height: 1100px;
+}
+
+.user-feedback {
+  font-size: 100px;
+}
+
+/* @font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Barlow Regular'), local('Barlow-Regular'), url(https://fonts.gstatic.com/s/barlow/v3/7cHpv4kjgoGqM7E_DMs5ynghnQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+} */
+
+.positive {
+  color: #00FF00;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  height: 150px;
+  margin-right: 50px;
+  width: 150px;
+}
+
+#job-title {
+  	color: #B0E0E6;
+}
+
+.quote {
+  color: #00BFFF;
+  font-size: 60px;
+  margin-bottom: 0;
+  margin-top: 20px;
+  text-align: center;
+}
+
+ul {
+  font-size: 45px;
+}

@@ -26,3 +26,8 @@ a {
 .nav {
   margin-left: 20px;
 }
+
+.nav-style {
+  background-color:rgba(0, 0, 0, 0.5);
+  padding-right: 20px;
+}

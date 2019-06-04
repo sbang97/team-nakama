@@ -6,6 +6,8 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Resources from "./components/Resources";
 import NotFound from "./components/NotFound";
+import UserTests from "./components/UserTests";
+
 
 const Routes = (
   <Route path="/" component={Layout}>

@@ -9,7 +9,7 @@ export default class Header extends Component {
 		return (
 			<div className="header-div">
 				<Navbar fixed="top">
-					<Nav className="justify-content-end" activeKey="/home">
+					<Nav className="justify-content-end nav-style" activeKey="/home">
 					<Nav.Item>
 						<IndexLink className="nav" to="/">Home</IndexLink>
 					</Nav.Item>
@@ -17,7 +17,7 @@ export default class Header extends Component {
 						<NavLink className="nav" to="/about">About</NavLink>
 					</Nav.Item>
 					<Nav.Item>
-						<NavLink className="nav" to="/resources">Learn More</NavLink>
+						<NavLink className="nav" to="/resources">Inspirations</NavLink>
 					</Nav.Item>
 					</Nav>
 				</Navbar>

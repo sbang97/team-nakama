@@ -15,10 +15,25 @@
   padding-top: 40px;
   padding-bottom: 40px;
   color: white;
+  font-size: 130px;
+}
+
+.page {
+  height: 1200px;
+}
+
+.centered {
+  margin-top: 60px;
+  font-size: 35px;
+  text-align: center;
+}
+
+.last-page {
+  height: 890px;
 }
 
 .carousel-inner {
-  max-height: 20% !important;
+  max-height: 80% !important;
   width: 80% !important;
   margin: 0 auto;
 }
