@@ -11,12 +11,12 @@
     "react-bootstrap": "^1.0.0-beta.5",
     "react-dom": "^16.7.0",
     "react-router": "^3.0.2",
-    "style-loader": "^0.23.1",
+    "style-loader": "^3.3.1",
     "typeface-barlow": "0.0.71"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
-    "react-scripts": "0.9.5"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
